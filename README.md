@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **'Snap Journal'**
 
-- 🌱 I’m currently learning **The Complete 2023 Web Development Bootcamp, UDEMY**
+- 🌱 I’m currently building ** AI Powered Web Apps**
 
 - 👨‍💻 All of my projects are available at [https://hisana-nazeer.github.io/portfolio/](https://hisana-nazeer.github.io/portfolio/)
 
