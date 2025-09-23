@@ -1,12 +1,12 @@
 ![MasterHead](https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif)
 
 <h1 align="center">Hi 👋, I'm Hisana Nazeer</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🔭 I’m currently working on **'Snap Journal'**
 
-- 🌱 I’m currently building ** AI Powered Web Apps**
+- 🌱 I’m currently building **AI Powered Web Apps**
 
 - 👨‍💻 All of my projects are available at [https://hisana-nazeer.github.io/portfolio/](https://hisana-nazeer.github.io/portfolio/)
 
