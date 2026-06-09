@@ -1,13 +1,13 @@
 # Hi 👋, I'm Hisana Nazeer
 
-### ML Engineer & AI Developer | Health-tech AI | Python · scikit-learn · FastAPI · LLMs
+### ML Engineer & AI Developer| Python · scikit-learn · FastAPI · LLMs
 
 ![Coding](https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif)
 
 ## 👩‍💻 About Me
 
 - 🤖 I build and deploy **end-to-end ML systems and AI-powered applications**
-- 🏥 Focused on **health-tech AI** — clinical ML, postpartum wellness, and LLM-powered products
+
 - 🚀 Currently building **[Nurtural](https://nurtural.vercel.app/)** — an AI wellness app for postpartum mothers (Next.js 14, Supabase, Claude API)
 - 📊 Deployed a **clinical PPD prediction model** (Random Forest, 91% Recall, SHAP explainability) via FastAPI on Render
 - 📄 IEEE published researcher — hybrid ARIMA/LSTM stock forecasting
