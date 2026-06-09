@@ -10,7 +10,7 @@
 
 - 🚀 Currently building **[Nurtural](https://nurtural.vercel.app/)** — an AI wellness app for postpartum mothers (Next.js 14, Supabase, Claude API)
 - 📊 Deployed a **clinical PPD prediction model** (Random Forest, 91% Recall, SHAP explainability) via FastAPI on Render
-- 📄 IEEE published researcher — hybrid ARIMA/LSTM stock forecasting
+- 📄 IEEE published researcher — hybridised model for stockmarket price prediction
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🌱 Currently deepening skills in **MLOps, Docker, and Agentic AI**
 - 📫 Reach me at **hisanasonline@gmail.com**
